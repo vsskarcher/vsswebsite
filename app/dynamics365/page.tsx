@@ -37,6 +37,23 @@ export default function Dynamics365() {
             >
               AI-powered ERP and CRM applications to help you better manage sales, service, finance, and supply chain operations.
             </motion.p>
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.4 }}
+              className="mt-8 max-w-3xl mx-auto"
+            >
+              <div className="relative pb-[56.25%] h-0 overflow-hidden rounded-lg shadow-xl">
+                <iframe
+                  className="absolute top-0 left-0 w-full h-full"
+                  src="https://www.youtube.com/embed/X7B99e3mNfI?si=XDPggjXjSCBYzvTN"
+                  title="YouTube video player"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  referrerPolicy="strict-origin-when-cross-origin"
+                  allowFullScreen
+                />
+              </div>
+            </motion.div>
           </div>
         </section>
 
