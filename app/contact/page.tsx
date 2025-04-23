@@ -188,7 +188,7 @@ export default function Contact() {
                       <FaEnvelope className="text-primary text-xl mt-1 mr-4" />
                       <div>
                         <h3 className="font-semibold">Email</h3>
-                        <p className="text-gray-600">info@valuestream.online</p>
+                        <p className="text-gray-600">info@valuestreamsystems.com</p>
                       </div>
                     </div>
                   </div>
