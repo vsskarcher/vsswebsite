@@ -14,7 +14,7 @@ export default function Dynamics365() {
         <section className="relative py-20 bg-gradient-to-r from-primary to-secondary text-white">
           <div className="absolute inset-0 overflow-hidden">
             <Image
-              src="/images/dynamics365/hero-bg.jpg"
+              src="/images/dynamics365/Hero-BG-1600x559-2.avif"
               alt="Dynamics 365 Background"
               fill
               className="object-cover opacity-20"
