@@ -65,7 +65,7 @@ export default function Home() {
                   className="absolute right-0 mt-2 w-64 bg-white rounded-lg shadow-lg py-2"
                 >
                   <Link
-                    href="tel:330-814-8249"
+                    href="tel:1 (216) 835-5005"
                     className="flex items-center px-4 py-2 text-gray-700 hover:bg-gray-100"
                   >
                     <FaPhone className="mr-3 text-primary" />
