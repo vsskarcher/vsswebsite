@@ -171,13 +171,6 @@ export default function Contact() {
                   <h2 className="text-2xl font-bold mb-6">Contact Information</h2>
                   <div className="space-y-4">
                     <div className="flex items-start">
-                      <FaMapMarkerAlt className="text-primary text-xl mt-1 mr-4" />
-                      <div>
-                        <h3 className="font-semibold">Address</h3>
-                        <p className="text-gray-600">4268 St. Theresa Blvd<br />Avon, Ohio 44011</p>
-                      </div>
-                    </div>
-                    <div className="flex items-start">
                       <FaPhone className="text-primary text-xl mt-1 mr-4" />
                       <div>
                         <h3 className="font-semibold">Phone</h3>
